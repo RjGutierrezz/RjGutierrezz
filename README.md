@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RjGutierrezz
 - 👀 I’m interested in being a full-stack programmer
-- 🌱 I’m currently learning Java, Javacript, and Python
+- 🌱 I’m currently learning Java, Javacript, C++, and Python
 - 📫 How to reach me: rovergutierrez007@gmail.com
 - 😄 Pronouns: He/Him
 
