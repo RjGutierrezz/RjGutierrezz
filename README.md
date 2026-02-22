@@ -6,3 +6,5 @@ I've got a bunch of pinned projects, but my current facorite is my **[StudyBreak
 - 🌱 I’m currently learning React and Javacript
 - 😄 If you want to see my project collections visit my **[portfolio](https://rj-gutierrez.vercel.app/)**
 - 📫 How to reach me: rovergutierrez007@gmail.com
+
+### Currently working on **[aura-drip](https://github.com/RjGutierrezz/Auro-Drip)**
