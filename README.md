@@ -1,5 +1,5 @@
 ## Hey there! 🤗
-I’m **RJ**, a new grad from University of Arkansas and now based in Sacramento CA. My interest is to become a full-stack programmer.
+I’m **RJ**, a new grad from University of Arkansas and now based in Sacramento CA. My interest is to become a software engineer.
 
 I've got a bunch of pinned projects, but my current favorite is my **[StudyBreak-Bite](https://github.com/RjGutierrezz/StudyBreak-Bite)**.
 
